@@ -21,7 +21,7 @@
 ### Experiências
 
 ##### MadeinWeb ( Abril de 2015 - até o momento )
-Atividades: Analista/Desenvolvedor Front-end
+Atividades: Desenvolvedor Front-end e manutenção em aplicações angularjs
 
 ##### Clickbus ( outubro 2014 - março de 2015 )
 Atividade: Trabalhando em conjunto com o time de marketing, desenvolvendo toda a demanda de front-end ( landing pages, widgets, e-mail marketing, etc).
