@@ -20,17 +20,20 @@
 
 ### Experiências
 
-##### Clickbus ( outubro 2014 - até o momento )
-Atividade: Front-end.
+##### MadeinWeb ( Abril de 2015 - até o momento )
+Atividades: Analista/Desenvolvedor Front-end
+
+##### Clickbus ( outubro 2014 - março de 2015 )
+Atividade: Trabalhando em conjunto com o time de marketing, desenvolvendo toda a demanda de front-end ( landing pages, widgets, e-mail marketing, etc).
 
 ##### Sideburns Desenvolvimento Web ( março de 2014 – setembro de 2014 )
-Atividades: Front-end, Wordpress.
+Atividades: Desenvolvimento de sites e temas para wordpress.
 
 ##### Agência Orange Five - AO5 ( abril de 2012 até maio de 2014 )
-Atividades: Front-end, Wordpress.
+Atividades: Desenvolvimento de sites e temas para wordpress.
 
 ##### Agência Carranca ( março de 2010 – abril de 2012 )
-Atividades: Front-end, Wordpress.
+Atividades: Desenvolvimento de sites e temas para wordpress.
 
 
 ### Contatos
