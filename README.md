@@ -6,7 +6,9 @@
 ### Conhecimentos
 - HTML/CSS/Javascript
 - Pré-processadores ( SASS )
-- Git
+- Git (github/bitbucket)
+- Git Flow
+- Metodologia Ágil ( Scrum )
 - Grunt/Gulp
 - Photoshop / Illustrator ( Recorte de Layout )
 
