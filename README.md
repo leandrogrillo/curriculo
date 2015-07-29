@@ -5,8 +5,8 @@
 
 ### Conhecimentos
 - HTML/CSS/Javascript
-- Pré-processadores ( SASS )
-- Git (github/bitbucket)
+- Pré-processadores ( sass/stylus )
+- Git
 - Git Flow
 - Metodologia Ágil ( Scrum )
 - Grunt/Gulp
@@ -22,7 +22,7 @@
 
 ### Experiências
 
-##### MadeinWeb ( Abril de 2015 - até o momento )
+##### MadeinWeb ( Abril de 2015 - Junho de 2015 )
 Atividades: Desenvolvedor Front-end e manutenção em aplicações angularjs
 
 ##### Clickbus ( outubro 2014 - março de 2015 )
