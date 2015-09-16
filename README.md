@@ -22,6 +22,9 @@
 
 ### Experiências
 
+##### K2 Partnering Solutions ( Julho de 2015 )
+Atividades: Prestando serviços de desenvolvimento front-end para empresa K2 Partnering Solutions alocado na Netshoes. Trabalhando nas lojas legadas de LATAM.
+
 ##### MadeinWeb ( Abril de 2015 - Junho de 2015 )
 Atividades: Desenvolvedor Front-end e manutenção em aplicações angularjs
 
