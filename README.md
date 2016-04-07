@@ -1,11 +1,11 @@
 # Leandro César Grillo
 - Desenvolvedor Front-End
-- Idade: 26 Anos
+- Idade: 27 Anos
 - Cidade: São bernardo do Campo
 
 ### Conhecimentos
 - HTML/CSS/Javascript
-- Pré-processadores ( sass/stylus )
+- Pré-processadores
 - Git
 - Git Flow
 - Metodologia Ágil ( Scrum )
@@ -22,7 +22,10 @@
 
 ### Experiências
 
-##### K2 Partnering Solutions ( Julho de 2015 )
+##### Essence IT ( Novembro 2015 )
+Atividades: Prestador de serviços alocado na Leroy Merlin Brasil. 
+
+##### K2 Partnering Solutions ( Julho de 2015 - Novembro 2015 )
 Atividades: Prestando serviços de desenvolvimento front-end para empresa K2 Partnering Solutions alocado na Netshoes. Trabalhando nas lojas legadas de LATAM.
 
 ##### MadeinWeb ( Abril de 2015 - Junho de 2015 )
